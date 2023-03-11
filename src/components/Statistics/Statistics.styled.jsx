@@ -6,12 +6,11 @@ export const FeedbackWrap = styled.div `
 `
 
 export const FeedBackList = styled.ul`
-   margin-bottom: 40px;
+   margin-bottom: 30px;
 `
 export const FeedBackEmotion = styled.li `
    list-style: none;
    font-size: 20px;
-   font-weight: 700;
    display: flex;
    gap: 8px;
    align-items: center;
@@ -32,8 +31,7 @@ text-align: center;
 export const Total = styled.li`
   text-align: start;
   font-size: 20px;
-  font-weight: 700;
-  margin-bottom: 10px;
+  margin-bottom: 8px;
 `;
 
 export const PositiveFeedback = styled.li`
